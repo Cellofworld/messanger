@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/messanger/static/css/main.6bc412df.css",
+    "main.js": "/messanger/static/js/main.f4fbbe55.js",
+    "static/media/icons_img.svg": "/messanger/static/media/icons_img.14d6b7a35576bb93033a63e01d336a89.svg",
+    "index.html": "/messanger/index.html",
+    "static/media/signout.svg": "/messanger/static/media/signout.3d9fb42626f083fdc4fc610d092b96d3.svg",
+    "static/media/paperclip.svg": "/messanger/static/media/paperclip.50671f52e9c429deeb0df4bb14820248.svg",
+    "static/media/message.svg": "/messanger/static/media/message.060e6e87bbb69488e690e7f4ef142202.svg",
+    "static/media/arrow_left.svg": "/messanger/static/media/arrow_left.91c5c9abb444ee385d571ca0150803ed.svg",
+    "static/media/search.svg": "/messanger/static/media/search.6c426ffa0449b2dfe06f2ac530abbcb0.svg",
+    "main.6bc412df.css.map": "/messanger/static/css/main.6bc412df.css.map",
+    "main.f4fbbe55.js.map": "/messanger/static/js/main.f4fbbe55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc412df.css",
+    "static/js/main.f4fbbe55.js"
+  ]
+}
